@@ -1,5 +1,5 @@
 # Korea SKA Regional Center
-## SRCnet - Blue-Lavender Team
+SRCnet - Blue-Lavender Team
 
 <!--
 
