@@ -1,1 +1,0 @@
-# Korea SKA Regional Center
