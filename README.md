@@ -1,1 +1,1 @@
-# .github
+# Korea SKA Regional Center
