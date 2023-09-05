@@ -1,4 +1,4 @@
-# Korea SKA Regional Centre
+# Korea SKAO Regional Centre
 SRCnet - Blue-Lavender Team
 
 <!--
